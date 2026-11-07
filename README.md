@@ -1,4 +1,4 @@
-# car-synth
+# GJ26-CS (Gamejam 2026 Car Synth)
 
 A small C library that makes the sound of a car from numbers. It has no sound files for the engine. The library calculates the engine, the tyres on the ground, the slide, the starter motor and the engine stall in real time.
 
