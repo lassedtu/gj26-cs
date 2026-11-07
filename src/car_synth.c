@@ -35,14 +35,14 @@
 
 #define GROUND_SPEED 300.0f // the ground is at full loudness at this speed
 #define GROUND_VOLUME 0.9f
-#define SLIDE_START 8.0f    // a slide below this speed makes no sound
-#define SLIDE_FULL 60.0f    // a slide at this speed has full loudness
+#define SLIDE_START 8.0f // a slide below this speed makes no sound
+#define SLIDE_FULL 60.0f // a slide at this speed has full loudness
 #define SLIDE_VOLUME 0.15f
 #define SCREECH_START 20.0f // a slide below this speed does not screech
 #define SCREECH_FULL 90.0f  // a slide at this speed gives a full screech
 #define SCREECH_PITCH 0.08f // the screech is this much higher at a full slide
 #define SCREECH_VOLUME 0.9f
-#define CLUNK_SECONDS 0.2f  // length of the synthetic gear thud
+#define CLUNK_SECONDS 0.2f // length of the synthetic gear thud
 #define GEAR_VOLUME 0.6f
 
 // Relative loudness of the four cylinders
